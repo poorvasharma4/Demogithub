@@ -6,5 +6,6 @@ public class DemoGit {
 		System.out.println("git tessting project");
 		System.out.println("hello github");
 		System.out.println("hello git");
+		System.out.println("hello");
 	}
 }
